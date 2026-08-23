@@ -40,7 +40,7 @@ Revisé y adapté las propuestas recibidas, tomando las decisiones finales sobre
 
 URL de Vercel:
 
-Pendiente de publicación.
+https://portfolio-melisa.vercel.app/
 
 ## Autor
 
